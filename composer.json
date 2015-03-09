@@ -1,0 +1,13 @@
+{
+    "name": "root/aliyun-oss",
+    "authors": [
+        {
+            "name": "lintzuhsiu",
+            "email": "ltzuhsiu@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Tzuhsiulin\\Laravel": "src/" }
+    }
+}
