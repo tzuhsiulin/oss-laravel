@@ -15,5 +15,5 @@
             "Tzuhsiulin\\Laravel\\": "src/" 
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
